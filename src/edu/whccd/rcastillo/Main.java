@@ -2,7 +2,7 @@ package edu.whccd.rcastillo;
 
 import java.util.Scanner;;import static java.util.Scanner.*;
 
-/* This custom application is to show the use of exeption handling
+/* This custom application is to show the use of exception handling
     Author: Richard Castillo
  */
 
